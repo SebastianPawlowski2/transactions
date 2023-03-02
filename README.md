@@ -152,15 +152,15 @@ Output
 ------
 The output is shown in the pictures below. The inserted data can be selected from Command Prompt or SQLite GUI.
 
-**1. accounts table after first transactions imput**
+**1. accounts table after first transactions input**
 
 ![image](https://user-images.githubusercontent.com/126695578/222451262-88ed64ea-340f-4bc3-b9cf-5dab1e57292f.png)
 
-**2. transactions table after second transactions imput**
+**2. transactions table after second transactions input**
 
 ![image](https://user-images.githubusercontent.com/126695578/222452381-21697fdb-4882-4072-a94e-07df4659c673.png)
 
-**3. localtransactions view after third transactions imput**
+**3. localtransactions view after third transactions input**
 
 ![image](https://user-images.githubusercontent.com/126695578/222452906-705c714b-71e2-455a-a9b0-116e51d83134.png)
 
